@@ -1,3 +1,10 @@
+Archived Peojct
+===============
+
+This is obsoleted and archived project.  Please refer current llvm monorepo
+for VE (https://github.com/sx-aurora-dev/llvm-project) for the latest
+information.
+
 //===----------------------------------------------------------------------===//
 // C Language Family Front-end for NEC SX-Aurora VE
 //===----------------------------------------------------------------------===//
